@@ -43,10 +43,3 @@ Tools:
 - Vercel Deployment
 
 ## 📂 Project Structure
-
-## 🚀 Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/Prathishkumarp/Voxora-AI.git
