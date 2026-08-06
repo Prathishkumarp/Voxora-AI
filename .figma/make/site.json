@@ -4,6 +4,9 @@
   "robots": {
     "index": true
   },
+  "openGraph": {
+    "image": "/og-image.png"
+  },
   "accessibility": {
     "addBypassLinks": false,
     "ignoreReducedMotion": false
