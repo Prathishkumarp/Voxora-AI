@@ -1,7 +1,8 @@
 {
-  "description": "This web application streamlines project management by consolidating requirements, enabling teams to collaborate effectively and track progress efficiently.",
+  "title": "Voxora AI",
+  "description": "Voxora AI is an AI-powered communication platform that helps users improve English speaking and communication skills.",
   "robots": {
-    "index": false
+    "index": true
   },
   "accessibility": {
     "addBypassLinks": false,
